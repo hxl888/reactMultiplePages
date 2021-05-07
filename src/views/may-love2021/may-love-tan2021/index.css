@@ -1,0 +1,339 @@
+.guajianTips520_s {
+  width: 6.7rem;
+  height: 4.88rem;
+  background: url(//imagexc.kuwo.cn/kuwolive/huodong/loveDay2021520/pendant_h5/guajianTips520_s.png);
+  background-size: 6.7rem 6.2rem; /*position: absolute;left:50%;top:50%;margin:-2.44rem 0 0 -3.35rem*/
+}
+.guajianTips520_s_close {
+  width: 0.98rem;
+  height: 0.98rem;
+  position: absolute;
+  right: 0;
+  top: 0;
+}
+.guajianTips520_s p {
+  font-size: 0.4rem;
+  color: #bc1061;
+  line-height: 0.8rem;
+  text-align: center;
+  padding: 1.3rem 0.5rem 0;
+}
+.guajianTips520_s p span {
+  color: #ba00ff;
+}
+.guajianTips520_s a + p + a {
+  position: absolute;
+  bottom: 0.2rem;
+  left: 50%;
+  margin-left: -2.58rem;
+  width: 5.16rem;
+  height: 1.07rem;
+  display: block;
+  /* margin: 0.4rem auto 0; */
+  background: url(//imagexc.kuwo.cn/kuwolive/huodong/loveDay2021520/pendant_h5/guajianTips520_s.png)
+    0 -5.13rem;
+  background-size: 6.7rem 6.2rem;
+  font-size: 0.4rem;
+  color: #fff;
+  text-align: center;
+  line-height: 1.07rem;
+}
+
+/* 勋章升级 */
+.xunzhangshengjiTips {
+  width: 6.45rem;
+  height: 4.04rem;
+  background: url(//imagexc.kuwo.cn/kuwolive/huodong/loveDay2021520/pendant_h5/xunzhangshengjiTips.png);
+  background-size: 6.45rem 4.04rem;
+  position: relative;
+}
+.xunzhangshengjiTips .close_btn {
+  display: block;
+  position: absolute;
+  left: 50%;
+  bottom: 0.3rem;
+  width: 2.6rem;
+  height: 0.8rem;
+  margin-left: -1.3rem;
+}
+.xunzhangshengjiTips p {
+  font-size: 0.28rem;
+  color: #fff;
+  padding: 1.2rem 0 0.2rem 0;
+  text-align: center;
+}
+.xunzhangshengjiTips div {
+  overflow: hidden;
+}
+.xunzhangshengjiTips img {
+  width: 1.3rem;
+  height: 0.36rem;
+  display: block;
+  margin: 0 auto;
+}
+.xunzhangshengjiTips p a {
+  /* height: 0.3rem; */
+  /* line-height: 0.3rem; */
+  display: inline-block;
+  vertical-align: middle;
+  margin-top: -0.06rem;
+  color: #fbeb94;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  font-weight: bold;
+  max-width: 1.55rem;
+  min-width: 0.6rem;
+  /* background: red; */
+}
+.xunzhangshengjiTips p + img + a {
+  width: 2.5rem;
+  height: 0.7rem;
+  position: absolute;
+  bottom: 0.27rem;
+  left: 1.98rem;
+}
+
+.moheTips520 {
+  width: 7.15rem;
+  height: 2.61rem;
+  padding-top: 4.35rem;
+  background: url(//imagexc.kuwo.cn/kuwolive/huodong/loveDay2021520/pendant_h5/moheTips520.png);
+  background-size: 7.15rem 6.96rem;
+}
+.moheTips520 p {
+  width: 4.8rem;
+  height: 1.03rem;
+  border: 0.04rem solid #fff;
+  background: #efddff;
+  border-radius: 0.7rem;
+  font-size: 0.3rem;
+  color: #854db3;
+  line-height: 0.44rem;
+  padding: 0.15rem 0.57rem 0;
+  margin-left: 0.43rem;
+}
+.moheTips520 p span {
+  font-weight: bold;
+  color: #ff5bb8;
+}
+.moheTips520 a {
+  width: 4.17rem;
+  height: 1.03rem;
+  display: block;
+  margin: 0.31rem 0 0 1.35rem;
+}
+
+.mailTips520 {
+  width: 6.75rem;
+  height: 8.1rem;
+  background: url(//imagexc.kuwo.cn/kuwolive/huodong/loveDay2021520/pendant_h5/mailTips520.png);
+  background-size: 6.75rem 8.1rem;
+  font-size: 0.24rem;
+  color: #854db3;
+}
+.mailTips520 .closeBtn {
+  display: block;
+  position: absolute;
+  right: 0;
+  top: 0;
+  width: 1rem;
+  height: 1rem;
+}
+.mailTips520 p {
+  line-height: 0.46rem;
+  padding: 0 0.9rem 0 1rem;
+}
+.mailTips520 p:nth-child(1) {
+  padding: 2.7rem 0.9rem 0.18rem;
+}
+.pic90_520 {
+  width: 0.9rem;
+  height: 0.9rem;
+  border: 0.04rem solid #cc8ff1;
+  border-radius: 50%;
+  display: block;
+  margin-right: 0.2rem;
+}
+.pic90_520 img {
+  width: 100%;
+  height: 100%;
+  display: block;
+  border-radius: 50%;
+}
+.mail_btn520 {
+  position: absolute;
+  bottom: 0.6rem;
+  right: -0.3rem;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  padding: 0.5rem 0.6rem 0 0;
+}
+.mailTips520 .mail_btn520 div p {
+  padding: 0;
+  height: 0.32rem;
+  line-height: 0.32rem;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  width: 1.7rem;
+}
+.mailTips520 .mail_btn520 div p a {
+  color: #854db3;
+}
+.mailTips520 .mail_btn520 div p:last-child {
+  color: #c493ec;
+}
+
+.motianlunTips520 {
+  width: 5.18rem;
+  height: 6.01rem;
+  background: url(//imagexc.kuwo.cn/kuwolive/huodong/loveDay2021520/pendant_h5/motianlunTips.png);
+  background-size: 5.18rem 6.01rem;
+  position: relative;
+}
+.motianlunTips520 p {
+  font-size: 0.28rem;
+  color: #fff;
+  line-height: 0.44rem;
+  padding: 3.1rem 0.45rem 0;
+  text-align: center;
+}
+.motianlunTips520 p span {
+  color: #ffe86b;
+  font-weight: bold;
+}
+.motianlunTips520 a {
+  display: block;
+  position: absolute;
+  left: 50%;
+  bottom: 0.5rem;
+  width: 2.6rem;
+  height: 0.7rem;
+  margin-left: -1.3rem;
+}
+
+.libaoTips520 {
+  width: 7.18rem;
+  height: 6.67rem;
+  background: url(//imagexc.kuwo.cn/kuwolive/huodong/loveDay2021520/pendant_h5/libaoTips520.png);
+  background-size: 7.18rem 6.67rem;
+  position: relative;
+}
+.libaoTips520 a {
+  width: 4.18rem;
+  height: 1.02rem;
+  position: absolute;
+  left: 1.46rem;
+  bottom: 0;
+}
+
+.libaoTan_520 {
+  width: 6.7rem;
+  height: 5.28rem;
+  background: url(//imagexc.kuwo.cn/kuwolive/huodong/loveDay2021520/pendant_h5/libaoTan_520.png);
+  background-size: 6.7rem 5.28rem;
+  position: relative;
+}
+.libaoTan_520 p {
+  font-size: 0.4rem;
+  color: #bc1061;
+  line-height: 0.6rem;
+  padding: 1.4rem 0.5rem 0;
+  margin-top: 0.6rem;
+  text-align: center;
+}
+.libaoTan_close520 {
+  width: 0.98rem;
+  height: 0.98rem;
+  position: absolute;
+  right: 0;
+  top: 0;
+}
+.libaoTan_520 a:nth-child(3) {
+  display: block;
+  width: 5.16rem;
+  height: 1.08rem;
+  position: absolute;
+  bottom: 0.52rem;
+  left: 50%;
+  margin-left: -2.58rem;
+}
+.libaoTan_520 p span {
+  color: #ba00ff;
+}
+.libaoTan_520 .libaoTan_520_know {
+  text-align: center;
+  line-height: 1.08rem;
+  font-size: 0.4rem;
+  color: #fff;
+}
+.fufeilibaoTips520 {
+  width: 6.8rem;
+  height: 1.01rem;
+  padding-top: 4.6rem;
+  background: url(//imagexc.kuwo.cn/kuwolive/huodong/loveDay2021520/pendant_h5/fufeilibaoTips520.png);
+  background-size: 6.8rem 6.65rem;
+  position: relative;
+}
+.fufeilibaoTips520 a:nth-child(1) {
+  width: 0.72rem;
+  height: 0.72rem;
+  position: absolute;
+  right: 0;
+  top: 0.42rem;
+}
+.fufeilibaoBtn520 {
+  width: 2.5rem;
+  height: 0.7rem;
+  background: url(//imagexc.kuwo.cn/kuwolive/huodong/loveDay2021520/pendant_h5/fufeilibaoTips520.png)
+    0 -5.95rem;
+  background-size: 6.8rem 6.65rem;
+  font-size: 0.3rem;
+  text-align: center;
+  line-height: 0.7rem;
+  font-weight: bold;
+  display: block;
+  color: #fff;
+  margin: 0 auto;
+}
+.fufeilibaoTan {
+  width: 4.96rem;
+  height: 3.3rem;
+  background: url(//imagexc.kuwo.cn/kuwolive/huodong/loveDay2021520/pendant_h5/fufeilibaoTan.png);
+  background-size: 4.96rem 3.3rem;
+  position: relative;
+}
+.fufeilibaoTan div {
+  height: 1.45rem;
+  display: flex;
+  align-items: center;
+  padding: 0.9rem 0.3rem 0;
+  flex-direction: column;
+}
+.fufeilibaoTan p {
+  color: #6d00b4;
+  line-height: 0.36rem;
+  font-size: 0.26rem;
+  text-align: center;
+}
+.fufeilibaoTan_close {
+  width: 0.53rem;
+  height: 0.53rem;
+  position: absolute;
+  right: 0;
+  top: 0.4rem;
+}
+.fufeilibaoTan span {
+  color: #ed0054;
+  font-weight: bold;
+}
+.fufeilibaoTan div p:last-child {
+  color: #e949dc;
+  font-size: 0.22rem;
+  padding-top: 0.25rem;
+}
+.hide {
+  display: none;
+}

@@ -1,0 +1,53 @@
+{
+  "compilerOptions": {
+    "target": "esnext",
+    "module": "esnext",
+    "strict": true,
+    "jsx": "react",
+    "importHelpers": true,
+    "moduleResolution": "node",
+    "experimentalDecorators": true,
+    "esModuleInterop": true,
+    "allowSyntheticDefaultImports": true,
+    "strictPropertyInitialization": false,
+    "sourceMap": true,
+    "baseUrl": ".",
+    "types": [
+      "webpack-env"
+    ],
+    "paths": {
+      "@/*": [
+        "src/*"
+      ],
+      "api/*": [
+        "src/api/*"
+      ],
+      "utils/*": [
+        "src/utils/*"
+      ],
+      "styles/*": [
+        "src/styles/*"
+      ]
+    },
+    "lib": [
+      "es6",
+      "esnext",
+      "dom",
+      "dom.iterable",
+      "scripthost"
+    ]
+  },
+  "include": [
+    // "./src/**/*",
+    // "./src/**/**/*",
+    "src/**/*.ts",
+    "src/**/*.tsx",
+    "src/**/**/*.tsx",
+    "src/**/*.css",
+  ],
+  "exclude": [
+    "node_modules",
+    "plop-templates",
+    "build"
+  ]
+}

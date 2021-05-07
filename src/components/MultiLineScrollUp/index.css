@@ -1,0 +1,11 @@
+.my-outbox {
+  /* height: 20px; */
+  height: 100%;
+  overflow: hidden;
+}
+.movebox {
+  height: 100%;
+}
+.my-inbox {
+  height: auto;
+}

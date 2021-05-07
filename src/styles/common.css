@@ -1,0 +1,53 @@
+body {
+  font-size: 100px;
+}
+
+.defaultClass {
+  position: absolute !important;
+  right: 0;
+  bottom: 0.08rem;
+  width: 100%;
+}
+.centenBox {
+  position: absolute !important;
+  left: 50% !important;
+  top: 50% !important;
+  transform: translate(-50%, -50%);
+}
+.centenDownBox {
+  position: absolute !important;
+  left: 50% !important;
+  bottom: 20% !important;
+  transform: translate(-50%, 0);
+}
+.boxBottomSty {
+  position: absolute !important;
+  left: 50% !important;
+  bottom: 12% !important;
+  transform: translate(-50%, 0);
+}
+@keyframes rubberBand {
+  20% {
+    transform: rotate(15deg);
+  }
+
+  40% {
+    transform: rotate(-10deg);
+  }
+
+  60% {
+    transform: rotate(5deg);
+  }
+
+  80% {
+    transform: rotate(-5deg);
+  }
+
+  to {
+    transform: rotate(0deg);
+  }
+}
+
+.rubberBand {
+  animation: rubberBand 1s linear;
+}

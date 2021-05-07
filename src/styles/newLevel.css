@@ -1,0 +1,337 @@
+/*明星等级徽章*/
+.star_common {
+    width:0.38rem;
+    height:0.38rem;
+    background:url(https://imagexc.kuwo.cn/kuwolive/newLevel/level_3x.png?201708111500);
+    display:inline-block;
+    vertical-align:middle;
+    background-size:6.666rem 2.12rem
+}
+.star_0 {
+    background-position:0 0
+}
+.star_1 {
+    background-position:-0.446rem 0
+}
+.star_2 {
+    background-position:-0.893rem 0
+}
+.star_3 {
+    background-position:-1.34rem 0
+}
+.star_4 {
+    background-position:-1.786rem 0
+}
+.star_5 {
+    background-position:-2.23rem 0
+}
+.star_6 {
+    background-position:-2.68rem 0
+}
+.star_7 {
+    background-position:-3.126rem 0
+}
+.star_8 {
+    background-position:-3.573rem 0
+}
+.star_9 {
+    background-position:-4.02rem 0
+}
+.star_10 {
+    background-position:-4.466rem 0
+}
+.star_11 {
+    background-position:-4.913rem 0
+}
+.star_12 {
+    background-position:-5.386rem 0
+}
+.star_13 {
+    background-position:-5.806rem 0
+}
+.star_14 {
+    background-position:-6.253rem 0
+}
+.star_15 {
+    background-position:0 -0.446rem
+}
+.star_16 {
+    background-position:-0.446rem -0.446rem
+}
+.star_17 {
+    background-position:-0.893rem -0.446rem
+}
+.star_18 {
+    background-position:-1.34rem -0.446rem
+}
+.star_19 {
+    background-position:-1.786rem -0.446rem
+}
+.star_20 {
+    background-position:-2.23rem -0.446rem
+}
+.star_21 {
+    background-position:-2.68rem -0.446rem
+}
+.star_22 {
+    background-position:-3.126rem -0.446rem
+}
+.star_23 {
+    background-position:-3.573rem -0.446rem
+}
+.star_24 {
+    background-position:-4.02rem -0.446rem
+}
+.star_25 {
+    background-position:-4.466rem -0.446rem
+}
+.star_26 {
+    background-position:-4.913rem -0.446rem
+}
+.star_27 {
+    background-position:-5.386rem -0.446rem
+}
+.star_28 {
+    background-position:-5.806rem -0.446rem
+}
+.star_29 {
+    background-position:-6.253rem -0.446rem
+}
+.star_30 {
+    background-position:0 -0.893rem
+}
+.star_31 {
+    background-position:-0.446rem -0.893rem;
+    width:0.56rem
+}
+.star_32 {
+    background-position:-1.073rem -0.893rem;
+    width:0.56rem
+}
+.star_33 {
+    background-position:-1.7rem -0.893rem;
+    width:0.56rem
+}
+.star_34 {
+    background-position:-2.326rem -0.893rem;
+    width:0.56rem
+}
+.star_35 {
+    background-position:-2.953rem -0.893rem;
+    width:0.56rem
+}
+.star_36 {
+    background-position:-3.573rem -0.893rem;
+    width:0.56rem
+}
+.star_37 {
+    background-position:-4.2rem -0.893rem;
+    width:0.56rem
+}
+.star_38 {
+    background-position:-4.826rem -0.893rem;
+    width:0.56rem
+}
+.star_39 {
+    background-position:-5.453rem -0.893rem;
+    width:0.56rem
+}
+.star_40 {
+    background-position:-6.08rem -0.893rem;
+    width:0.56rem
+}
+.star_41 {
+    background-position:-0.446rem -1.34rem;
+    width:0.56rem
+}
+.star_42 {
+    background-position:-1.073rem -1.34rem;
+    width:0.56rem
+}
+.star_43 {
+    background-position:-1.7rem -1.34rem;
+    width:0.56rem
+}
+.star_44 {
+    background-position:-2.326rem -1.34rem;
+    width:0.56rem
+}
+.star_45 {
+    background-position:-2.953rem -1.34rem;
+    width:0.56rem
+}
+.star_46 {
+    background-position:-3.573rem -1.34rem;
+    width:0.56rem
+}
+.star_47 {
+    background-position:-4.2rem -1.34rem;
+    width:0.56rem
+}
+.star_48 {
+    background-position:-4.826rem -1.34rem;
+    width:0.56rem
+}
+.star_49 {
+    background-position:-5.453rem -1.34rem;
+    width:0.56rem
+}
+.star_50 {
+    background-position:-6.08rem -1.34rem;
+    width:0.56rem
+}
+.star_51 {
+    background-position:-0.446rem -1.74rem;
+    width:0.56rem
+}
+.star_52 {
+    background-position:-1.073rem -1.74rem;
+    width:0.56rem
+}
+.star_53 {
+    background-position:-1.7rem -1.74rem;
+    width:0.56rem
+}
+/*财富等级*/
+.rich_common {
+    margin-top: 0.06rem;
+    width:0.56rem;
+    height:0.28rem;
+    background:url(https://imagexc.kuwo.cn/kuwolive/newLevel/level_cf_3x.png?201708111500);
+    display:inline-block;
+    vertical-align:middle;
+    background-size:7.84rem 1.253rem
+}
+.rich_0 {
+    background-position:0 0
+}
+.rich_1 {
+    background-position:-1.12rem 0
+}
+.rich_2 {
+    background-position:-1.68rem 0
+}
+.rich_3 {
+    background-position:-2.24rem 0
+}
+.rich_4 {
+    background-position:-2.80rem 0
+}
+.rich_5 {
+    background-position:-3.36rem 0
+}
+.rich_6 {
+    background-position:-3.92rem 0
+}
+.rich_7 {
+    background-position:-4.48rem 0
+}
+.rich_8 {
+    background-position:-5.04rem 0
+}
+.rich_9 {
+    background-position:-5.6rem 0
+}
+.rich_10 {
+    background-position:-6.16rem 0
+}
+.rich_11 {
+    background-position:-6.72rem 0
+}
+.rich_12 {
+    background-position:-7.28rem 0
+}
+.rich_13 {
+    background-position:0 -0.346rem
+}
+.rich_14 {
+    background-position:-0.56rem -0.346rem
+}
+.rich_15 {
+    background-position:-1.12rem -0.346rem
+}
+.rich_16 {
+    background-position:-1.68rem -0.346rem
+}
+.rich_17 {
+    background-position:-2.24rem -0.346rem
+}
+.rich_18 {
+    background-position:-2.80rem -0.346rem
+}
+.rich_19 {
+    background-position:-3.36rem -0.346rem
+}
+.rich_20 {
+    background-position:-3.92rem -0.346rem
+}
+.rich_21 {
+    background-position:-4.48rem -0.346rem
+}
+.rich_22 {
+    background-position:-5.04rem -0.346rem
+}
+.rich_23 {
+    background-position:-5.6rem -0.346rem
+}
+.rich_24 {
+    background-position:-6.16rem -0.346rem
+}
+.rich_25 {
+    background-position:-6.72rem -0.346rem
+}
+.rich_26 {
+    background-position:-7.28rem -0.346rem
+}
+.rich_27 {
+    background-position:0 -0.693rem
+}
+.rich_28 {
+    background-position:-0.56rem -0.693rem
+}
+.rich_29 {
+    background-position:-1.12rem -0.693rem
+}
+.rich_30 {
+    background-position:-1.68rem -0.693rem
+}
+.rich_31 {
+    background-position:-2.24rem -0.693rem
+}
+.rich_32 {
+    background-position:-2.80rem -0.693rem
+}
+.rich_33 {
+    background-position:-3.36rem -0.693rem
+}
+.rich_34 {
+    background-position:-3.92rem -0.693rem
+}
+.rich_35 {
+    background-position:-4.48rem -0.693rem
+}
+.rich_36 {
+    background-position:-5.04rem -0.693rem
+}
+.rich_37 {
+    background-position:-5.6rem -0.693rem
+}
+.rich_38 {
+    background-position:-7.28rem -0.693rem
+}
+.rich_39 {
+    background-position:-6.72rem -0.967rem
+}
+.rich_40 {
+    background-position:-7.28rem -0.967rem
+}
+.rich_gf {
+    background-position:-6.16rem -0.693rem
+}
+.rich_wg {
+    background-position:-6.72rem -0.693rem
+}
+.rich_pm {
+    background-position:-0.56rem 0
+}
+

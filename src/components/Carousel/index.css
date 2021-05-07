@@ -1,0 +1,80 @@
+#container {
+  overflow: hidden;
+  position: relative;
+  left: 50%;
+}
+#list {
+  position: absolute;
+  z-index: 1;
+  background: rosybrown;
+}
+.swipe-slide {
+  float: left;
+  overflow: hidden;
+  width: 1.68rem;
+}
+.originBox {
+  /* position: absolute;
+  bottom: 0.03rem;
+  left: 50%;
+  width: 1.4rem;
+  margin-left: -0.7rem; */
+  /* display: flex;
+  justify-content: center;
+  align-items: center; */
+  z-index: 66;
+}
+.originBox .originSp {
+  display: inline-block;
+  margin-right: 0.1rem;
+  width: 0.06rem;
+  height: 0.06rem;
+  border-radius: 50%;
+  border: thin solid #0740bb;
+  background: #fff;
+}
+.originSp:last-child {
+  margin-right: 0;
+}
+.originSp.on {
+  /* width: 0.12rem;
+  height: 0.06rem;
+  border-radius: 0.05rem;
+  background: #f8de4b; */
+}
+.arrow {
+  cursor: pointer;
+  text-align: center;
+  font-size: 36px;
+  font-weight: bold;
+  width: 0.4rem;
+  height: 0.3rem;
+  position: absolute;
+  z-index: 999;
+  top: 0;
+  overflow: hidden;
+  text-indent: 3rem;
+}
+.prev,
+.next {
+  display: block;
+  position: absolute;
+  top: 0;
+  z-index: 999;
+  /* width: 0.3rem;
+  height: 0.3rem; */
+  width: 0.8rem;
+  height: 0.5rem;
+}
+.prev {
+  left: 0;
+  /* background: red; */
+}
+.next {
+  /* background: blue; */
+  /* right: 0; */
+  /* right: 0.06rem;
+  top: 0.06rem; */
+  right: 0;
+  top: 0;
+}

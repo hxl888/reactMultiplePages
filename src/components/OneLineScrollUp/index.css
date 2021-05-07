@@ -1,0 +1,32 @@
+.marquee {
+  width: 100%;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  box-sizing: border-box;
+  overflow: hidden;
+}
+.marquee_box {
+  display: block;
+  position: relative;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+}
+.marquee_list {
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+}
+.marquee_top {
+  transition: all 0.5s;
+  margin-top: -80px;
+}
+.marquee_box p {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  white-space: normal;
+}

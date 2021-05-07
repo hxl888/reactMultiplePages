@@ -1,0 +1,94 @@
+.guajianTips520 {
+  width: 7.5rem;
+  height: 9.18rem;
+  background: url(//imagexc.kuwo.cn/kuwolive/huodong/loveDay2021520/pendant_h5/guajianTips520.png);
+  background-size: 7.5rem 9.18rem;
+  position: relative;
+}
+.guajianTips_tit520 {
+  font-size: 0.36rem;
+  color: #fff;
+  font-weight: bold;
+  text-align: center;
+  padding-top: 1.95rem;
+  height: 0.6rem;
+  line-height: 0.6rem;
+}
+.guajianTips_paiming520 {
+  font-size: 0.36rem;
+  color: #bc1061;
+  display: flex;
+  padding: 0 0.45rem;
+  justify-content: space-between;
+  padding-top: 0.5rem;
+}
+.guajianTips_paiming520 span {
+  font-weight: bold;
+}
+.guajianTips_totalpaiming520 {
+  font-size: 0.36rem;
+  color: #bc1061;
+  padding: 1rem 0 0 0.6rem;
+  line-height: 0.6rem;
+}
+.guajianTips_totalpaiming520 p span {
+  font-weight: bold;
+}
+.guajianTips_userInfor520 {
+  font-size: 0.36rem;
+  color: #bc1061;
+  display: flex;
+  padding: 0.4rem 0.4rem 0 0.4rem;
+}
+.pic152_520 {
+  width: 1.52rem;
+  height: 1.52rem;
+  padding: 0.04rem;
+  border-radius: 0.1rem;
+  margin-right: 0.3rem;
+  background: url(//imagexc.kuwo.cn/kuwolive/huodong/loveDay2021520/pendant_h5/qiang520.png);
+  background-size: 1.6rem 1.6rem;
+}
+.pic152_520 img {
+  width: 1.52rem;
+  height: 1.52rem;
+  display: block;
+  border-radius: 0.16rem;
+}
+.guajianTips_userInfor520 div p {
+  height: 0.52rem;
+  line-height: 0.52rem;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  width: 4rem;
+}
+.guajianTips_userInfor520 div p a {
+  color: #bc1061;
+}
+.guajianTips_btn520 {
+  display: flex;
+  height: 1rem;
+  padding-top: 0.47rem;
+  align-items: center;
+}
+.guajianTips_btn520 a {
+  text-align: center;
+  font-size: 0.4rem;
+}
+.guajianTips_btn520 a:first-child {
+  color: #bc1061;
+  width: 2.8rem;
+}
+.guajianTips_btn520 a:last-child {
+  color: #fff;
+  flex: 1;
+  padding-left: 1.1rem;
+}
+.guajianTips520_close {
+  width: 0.6rem;
+  height: 0.6rem;
+  position: absolute;
+  right: 0.1rem;
+  top: 0.35rem;
+}
